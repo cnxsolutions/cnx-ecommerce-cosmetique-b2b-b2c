@@ -13,8 +13,7 @@ et **B2B** (revendeurs, partenaires, agences pharmaceutiques).
 > Extraits visuels de l’interface publique (données et accès sensibles non exposés)
 
 ![Page d’accueil](docs/screenshots/homepage.png)
-![Fiche produit](docs/screenshots/product-page.png)
-![Tunnel d’achat](docs/screenshots/checkout.png)
+![Fiche produit](docs/screenshots/product.png)
 
 ---
 
